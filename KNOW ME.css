@@ -1,0 +1,41 @@
+
+#header {
+    border:1px solid color;
+    background: green;
+    width: 1255;
+    height:2;
+    
+    padding:50px;
+}
+
+
+h1 {
+color:#00ffff ;
+font-weight: normal;
+font-family: Arial;
+font-size: 30px;
+text-align:center;
+}
+
+
+body {
+	color: #ffffff;
+	text-align: center;
+
+	font-weight: normal;
+	  
+	  background-color: black;
+
+	  }
+
+#footer {
+border:1px solid color;
+background:green; 
+width:1255;
+height:2;
+padding: 50px
+}
+
+#pad {
+	padding-bottom:30px
+}
